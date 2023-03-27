@@ -1,2 +1,3 @@
 # Aula 1 Andrei - Github
-sdkjvkjwdhivjkwdhbkwdjb kjjhdw
+
+primeira aula do ser humano cujo nome é andrei
